@@ -75,3 +75,14 @@ Spring Shell Documentation
 Spring Boot Documentation
 Future Development
 Planned future developments include adding more advanced file and directory operations and improving the user interface.
+
+##Visit proxmox virtual machine
+
+https://www.proxmox.com/en/proxmox-virtual-environment/overview
+
+download proxmox-ve_8.2-2.iso
+download proxmox-backup-server_3.2-1.iso
+
+ensure your GPU and RAM are sufficient to manage the storage required to run these both.
+
+
